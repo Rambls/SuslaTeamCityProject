@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuslaTeamCity", "SuslaTeamCity\SuslaTeamCity.csproj", "{C6499A5E-EE9D-4811-9AF5-67047EED70EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuslaUnitTesting", "SuslaUnitTesting\SuslaUnitTesting.csproj", "{3D69A77E-D23D-46EA-9087-F1132F86AB37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6499A5E-EE9D-4811-9AF5-67047EED70EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6499A5E-EE9D-4811-9AF5-67047EED70EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6499A5E-EE9D-4811-9AF5-67047EED70EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6499A5E-EE9D-4811-9AF5-67047EED70EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D69A77E-D23D-46EA-9087-F1132F86AB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D69A77E-D23D-46EA-9087-F1132F86AB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D69A77E-D23D-46EA-9087-F1132F86AB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D69A77E-D23D-46EA-9087-F1132F86AB37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
